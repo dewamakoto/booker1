@@ -1,0 +1,64 @@
+body{
+	margin: 30px;
+}
+.text-title{
+	font-size: 26px;
+}
+p {
+	padding-left: 50px;
+	font-size: 13px;
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+.books{
+	font-size: 28px;
+	font-weight: 900;
+	margin-bottom: 0;
+}
+.newbook{
+	font-size: 20px;
+	font-weight: 900;
+}
+h4{
+	font-size: 12px;
+	font-weight: normal;
+	margin-bottom: 0;
+}
+.create-book{
+	display:block;
+	margin-top: 5px;
+}
+
+
+/*詳細ページ*/
+
+.flash{
+	color:green;
+}
+.show{
+	margin-top: 15px;
+	padding-left: 0;
+}
+td{
+	font-weight: normal;
+	font-size: 13px;
+	color: #000000;
+	margin-right: 5px;
+}
+td a{
+	padding-right: 5px;
+}
+a{
+	color: #000000;
+}
+/* 編集画面　*/
+
+.editing-book{
+	font-size: 24px;
+	margin-bottom: 0;
+}
+
+.Update-book{
+	display: block;
+	margin-top: 5px;
+}
